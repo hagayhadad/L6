@@ -1,0 +1,5 @@
+def div (x, y):
+    try:
+        print(x, y)
+    except BaseException:
+        print('')
